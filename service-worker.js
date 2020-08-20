@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/traveling-freighter/precache-manifest.fb6a17133a912b7028927c46ea69d6e6.js"
+  "/traveling-freighter/precache-manifest.5910cb8f27100aa5a4f30b318a67fdf1.js"
 );
 
 self.addEventListener('message', (event) => {
