@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2215434e467cfa1c1ecffdfa8cd5b0ae",
+    "revision": "43f4a7151bb1e34d2c79f49c88119e82",
     "url": "/traveling-freighter/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/traveling-freighter/static/css/2.ee241de9.chunk.css"
   },
   {
-    "revision": "28d38c462e9fc6fedbbe",
+    "revision": "deb2f8414bf30f6b6b68",
     "url": "/traveling-freighter/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/traveling-freighter/static/js/2.baea70e7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "28d38c462e9fc6fedbbe",
-    "url": "/traveling-freighter/static/js/main.30b6b3cf.chunk.js"
+    "revision": "deb2f8414bf30f6b6b68",
+    "url": "/traveling-freighter/static/js/main.80f711c0.chunk.js"
   },
   {
     "revision": "931d1ba508b3fcbf1d7a",
