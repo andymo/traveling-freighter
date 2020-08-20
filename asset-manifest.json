@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/traveling-freighter/static/css/main.5f361e03.chunk.css",
+    "main.js": "/traveling-freighter/static/js/main.04895f59.chunk.js",
+    "main.js.map": "/traveling-freighter/static/js/main.04895f59.chunk.js.map",
+    "runtime-main.js": "/traveling-freighter/static/js/runtime-main.8f004edb.js",
+    "runtime-main.js.map": "/traveling-freighter/static/js/runtime-main.8f004edb.js.map",
+    "static/js/2.536bee41.chunk.js": "/traveling-freighter/static/js/2.536bee41.chunk.js",
+    "static/js/2.536bee41.chunk.js.map": "/traveling-freighter/static/js/2.536bee41.chunk.js.map",
+    "index.html": "/traveling-freighter/index.html",
+    "precache-manifest.f1df9c03bd74ba1d8df565b911b0884f.js": "/traveling-freighter/precache-manifest.f1df9c03bd74ba1d8df565b911b0884f.js",
+    "service-worker.js": "/traveling-freighter/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/traveling-freighter/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.536bee41.chunk.js.LICENSE.txt": "/traveling-freighter/static/js/2.536bee41.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/traveling-freighter/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f004edb.js",
+    "static/js/2.536bee41.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.04895f59.chunk.js"
+  ]
+}
