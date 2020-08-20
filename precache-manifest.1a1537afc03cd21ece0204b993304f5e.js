@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c02c2e29f37b9b1b2a1527500f1f472",
+    "revision": "6d0effc55059a0fde861eb3b05b8dcb3",
     "url": "/traveling-freighter/index.html"
   },
   {
-    "revision": "96b48205a88fdea20874",
+    "revision": "c404ebc79095240bf74c",
     "url": "/traveling-freighter/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/traveling-freighter/static/js/2.866795cc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "96b48205a88fdea20874",
-    "url": "/traveling-freighter/static/js/main.c378257f.chunk.js"
+    "revision": "c404ebc79095240bf74c",
+    "url": "/traveling-freighter/static/js/main.f6526f25.chunk.js"
   },
   {
     "revision": "931d1ba508b3fcbf1d7a",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/traveling-freighter/static/css/main.5f361e03.chunk.css",
-    "main.js": "/traveling-freighter/static/js/main.c378257f.chunk.js",
-    "main.js.map": "/traveling-freighter/static/js/main.c378257f.chunk.js.map",
+    "main.js": "/traveling-freighter/static/js/main.f6526f25.chunk.js",
+    "main.js.map": "/traveling-freighter/static/js/main.f6526f25.chunk.js.map",
     "runtime-main.js": "/traveling-freighter/static/js/runtime-main.8f004edb.js",
     "runtime-main.js.map": "/traveling-freighter/static/js/runtime-main.8f004edb.js.map",
     "static/js/2.866795cc.chunk.js": "/traveling-freighter/static/js/2.866795cc.chunk.js",
     "static/js/2.866795cc.chunk.js.map": "/traveling-freighter/static/js/2.866795cc.chunk.js.map",
     "index.html": "/traveling-freighter/index.html",
-    "precache-manifest.938c504bd1dac4ee28a0f0633aac4ac6.js": "/traveling-freighter/precache-manifest.938c504bd1dac4ee28a0f0633aac4ac6.js",
+    "precache-manifest.1a1537afc03cd21ece0204b993304f5e.js": "/traveling-freighter/precache-manifest.1a1537afc03cd21ece0204b993304f5e.js",
     "service-worker.js": "/traveling-freighter/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/traveling-freighter/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.866795cc.chunk.js.LICENSE.txt": "/traveling-freighter/static/js/2.866795cc.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.8f004edb.js",
     "static/js/2.866795cc.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.c378257f.chunk.js"
+    "static/js/main.f6526f25.chunk.js"
   ]
 }
